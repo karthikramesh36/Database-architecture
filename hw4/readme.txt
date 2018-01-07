@@ -1,4 +1,3 @@
-Csulb id - 014837054	
 Name - Karthik Ramesh
 
 A yelp UI application to query a database using mongoDB NoSql.
