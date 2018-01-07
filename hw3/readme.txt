@@ -1,4 +1,3 @@
-homework 3 
 
 application to populate and retrieve data from database.
 
